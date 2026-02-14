@@ -15,7 +15,7 @@ Este repositorio contiene ejercicios resueltos con el objetivo de fortalecer nue
 - ....
 
 ## Estructura
-
+```bash
 📂 proyecto
 │   │   └── README.md
 ├── 📂 basico/
@@ -43,5 +43,5 @@ Este repositorio contiene ejercicios resueltos con el objetivo de fortalecer nue
 │   └── 📂 ejercicio-3/
 │
 └── 📂 utils/
-
+```
 
