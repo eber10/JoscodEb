@@ -18,25 +18,25 @@ Este repositorio contiene ejercicios resueltos con el objetivo de fortalecer nue
 ```bash
 📂 proyecto
 │   │   └── README.md
-├── 📂 basico/
+├── 📂 01_basico/
 │   │   └── README.md
 │   ├── 📂 ejercicio-1/
 │   ├── 📂 ejercicio-2/
 │   └── 📂 ejercicio-3/
 │
-├── 📂 intermedio/
+├── 📂 02_intermedio/
 │   │   └── README.md
 │   ├── 📂 ejercicio-1/
 │   ├── 📂 ejercicio-2/
 │   └── 📂 ejercicio-3/
 │
-├── 📂 avanzado/
+├── 📂 03_avanzado/
 │   │   └── README.md
 │   ├── 📂 ejercicio-1/
 │   ├── 📂 ejercicio-2/
 │   └── 📂 ejercicio-3/
 │
-├── 📂 experto/
+├── 📂 04_experto/
 │   │   └── README.md
 │   ├── 📂 ejercicio-1/
 │   ├── 📂 ejercicio-2/
